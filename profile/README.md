@@ -36,6 +36,16 @@
 
 ## 🛠 Tech Stack
 
+### Frontend
+
+- **Framework**: React 19, TypeScript
+- **Build Tool**: Vite
+- **State Management**: Zustand
+- **Routing**: React Router DOM
+- **Form & Validation**: React Hook Form, Zod
+- **Styling / UI**: Tailwind CSS, Radix UI
+- **Communication**: Axios, WebSocket (STOMP), SSE
+
 ### Backend
 - **Framework**: Java 17, Spring Boot 3.5.9
 - **Data**: Spring Data JPA, Querydsl
